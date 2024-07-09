@@ -11,6 +11,9 @@ dependencies:
   - matplotlib
   - scikit-learn
   - numpy
+  - scipy
+  - statsmodels
+  - seaborn
   - r-dplyr
   - r-ggplot2
   - r-reshape2
